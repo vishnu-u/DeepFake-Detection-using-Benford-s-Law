@@ -10,6 +10,7 @@ The following experimentations have been conducted :
      </ul>
 </p>
 
+<p>Published Paper : https://www.irjet.net/archives/V8/i10/IRJET-V8I10113.pdf</p>
 ## Running the project
 <p>
 Clone the repository and execute <i>main.py.ipynb</i> on a Jupyter Notebook Platform (Or any platform that supports Python Noteboooks).
